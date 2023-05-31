@@ -1,6 +1,5 @@
 # Microservicios-ProductosPedidos 🛒
 En este proyecto se intenta desarrollar un micorservicio que interaccioné con el otro microservicio.
-# Microservicio Pedido y Producto
 Compuesto por varios paquetes, los cuales se muestran a continuación:
 - **com.curso.controller:** En este paquete unicamente contiene las rutas donde se lanzan las consultas: 
   > ***GET***: Muestra los datos.
